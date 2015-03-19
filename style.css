@@ -926,9 +926,11 @@ Content - Main Page Tiles
 	width:100%;
 }
 .tile{
-	margin:0 5px 10px 5px;
+	margin: -3px 2px 7px 2px;
+	padding: -3px;
 	float:left;
 	overflow:hidden;
+	border: 3px solid antiquewhite;
 	position:relative;
 	transition: opacity 0.5s ease 0.1s;
 	-moz-transition: opacity 0.5s ease 0.1s;
@@ -3387,19 +3389,19 @@ a.jp-restore-screen:hover {
 Theme Colours
 ----------------------------------------------------------------------------*/
 .blue{
-	background-color:#19A2DE !important;
+	background-color: #1993DE !important;
 }
 .bluetxt{
 	color:#19A2DE !important;
 }
 .red{
-	background-color:#E61400 !important;
+	background-color: #EA266E !important;
 }
 .redtxt{
-	color:#E61400 !important;
+	color: #EA266E !important;
 }
 .green{
-	background-color:#319A31 !important;
+	background-color: #319A8E !important;
 }
 .greentxt{
 	color:#319A31 !important;
